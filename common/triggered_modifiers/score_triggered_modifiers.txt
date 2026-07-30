@@ -1,0 +1,35 @@
+intscore_first_place_modifier = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		has_country_flag = intscore_first_place
+	}
+
+	land_morale = 0.30
+}
+
+intscore_second_place_modifier = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		has_country_flag = intscore_second_place
+	}
+
+	land_morale = 0.2
+}
+
+intscore_third_place_modifier = {
+	potential = {
+		always = yes
+	}
+
+	trigger = {
+		has_country_flag = intscore_third_place
+	}
+
+	land_morale = 0.1
+}

@@ -1,0 +1,159 @@
+country_decisions = {
+
+show_score = {
+	major = yes
+
+	potential = {
+		was_player = yes
+	}
+
+	allow = {
+		custom_trigger_tooltip = {
+			tooltip = intscore_current_score_tooltip
+			always = yes
+		}
+	}
+
+	effect = {
+		custom_tooltip = intscore_ranking_decision_tooltip
+
+		hidden_effect = {
+			country_event = {
+				id = intscore.2000
+			}
+		}
+	}
+
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+check_victory_provinces = {
+		major = yes
+		potential = {
+				was_player = yes
+			}
+
+		ai_will_do = {
+			factor = 0
+		}
+		provinces_to_highlight = {
+			OR = {
+province_id = 236
+province_id = 183
+province_id = 201
+province_id = 87
+province_id = 174
+province_id = 75
+province_id = 248
+province_id = 97
+province_id = 1876
+province_id = 67
+province_id = 50
+province_id = 45
+province_id = 12
+province_id = 1874
+province_id = 118
+province_id = 104
+province_id = 112
+province_id = 125
+province_id = 116
+province_id = 213
+province_id = 217
+province_id = 227
+province_id = 226
+province_id = 134
+province_id = 266
+province_id = 69
+province_id = 165
+province_id = 41
+province_id = 1
+province_id = 38
+province_id = 33
+province_id = 257
+province_id = 2410
+province_id = 295
+province_id = 293
+province_id = 466
+province_id = 2444
+province_id = 421
+province_id = 153
+province_id = 473
+province_id = 151
+province_id = 326
+province_id = 377
+province_id = 361
+province_id = 410
+province_id = 428
+province_id = 341
+province_id = 2467
+province_id = 1147
+province_id = 1114
+province_id = 1133
+province_id = 385
+province_id = 2218
+province_id = 403
+province_id = 454
+province_id = 451
+province_id = 504
+province_id = 507
+province_id = 1224
+province_id = 1196
+province_id = 1185
+province_id = 1177
+province_id = 1205
+province_id = 1170
+province_id = 707
+province_id = 563
+province_id = 524
+province_id = 555
+province_id = 2058
+province_id = 541
+province_id = 4443
+province_id = 586
+province_id = 4831
+province_id = 613
+province_id = 596
+province_id = 636
+province_id = 2690
+province_id = 656
+province_id = 667
+province_id = 679
+province_id = 1821
+province_id = 1816
+province_id = 730
+province_id = 700
+province_id = 669
+province_id = 682
+province_id = 2116
+province_id = 2745
+province_id = 1020
+province_id = 1240
+province_id = 1236
+province_id = 552
+			}
+		}
+		allow = {
+		always = no
+				
+		}
+		effect = {
+		}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
