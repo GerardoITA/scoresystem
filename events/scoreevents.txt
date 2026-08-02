@@ -185,98 +185,15 @@ country_event = {
 	}
 
 	immediate = {
-		if = { limit = { 236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 183 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 201 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 87 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 174 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 75 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 248 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 97 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1876 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 67 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 50 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 45 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 12 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1874 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 118 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 104 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 112 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 125 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 213 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 217 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 227 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 226 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 134 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 266 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 69 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 165 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 41 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 38 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 33 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 257 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 295 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 293 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 466 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2444 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 421 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 153 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 137 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 151 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 326 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 377 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 361 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 428 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 341 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2467 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1147 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1114 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1133 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 385 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2218 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 403 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 454 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 451 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 504 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 507 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1224 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1196 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1185 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1177 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1205 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1170 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 707 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 563 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 524 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 555 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2058 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 541 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 4443 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 586 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 4831 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 613 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 596 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 636 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2690 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 656 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 667 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 679 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1821 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1816 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 730 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 700 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 669 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 682 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 2745 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1020 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1240 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 1236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
-		if = { limit = { 552 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 1 } }
+		# Calcola i punti delle province valide.
+		#
+		# Ogni provincia assegna:
+		# BASE della provincia × MULTIPLIER dell'epoca.
+		#
+		# Per il periodo 1444-1499 il moltiplicatore è 1.
+		intscore_score_valid_provinces = {
+			MULTIPLIER = 1
+		}
 
 		set_country_flag = intscore_participant
 		set_country_flag = score_event_fired
@@ -285,7 +202,10 @@ country_event = {
 
 	option = {
 		name = score_option_a
-		ai_chance = { factor = 100 }
+
+		ai_chance = {
+			factor = 100
+		}
 	}
 }
 
@@ -319,98 +239,11 @@ country_event = {
 	}
 
 	immediate = {
-		if = { limit = { 236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 183 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 201 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 87 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 174 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 75 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 248 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 97 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1876 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 67 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 50 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 45 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 12 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1874 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 118 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 104 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 112 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 125 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 213 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 217 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 227 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 226 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 134 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 266 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 69 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 165 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 41 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 38 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 33 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 257 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 295 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 293 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 466 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2444 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 421 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 153 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 137 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 151 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 326 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 377 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 361 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 428 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 341 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2467 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1147 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1114 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1133 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 385 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2218 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 403 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 454 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 451 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 504 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 507 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1224 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1196 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1185 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1177 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1205 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1170 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 707 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 563 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 524 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 555 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2058 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 541 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 4443 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 586 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 4831 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 613 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 596 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 636 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2690 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 656 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 667 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 679 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1821 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1816 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 730 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 700 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 669 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 682 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 2745 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1020 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1240 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 1236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
-		if = { limit = { 552 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 2 } }
+		# 1500-1599:
+		# valore base della provincia × 2
+		intscore_score_valid_provinces = {
+			MULTIPLIER = 2
+		}
 
 		set_country_flag = intscore_participant
 		set_country_flag = score_event_fired
@@ -419,7 +252,10 @@ country_event = {
 
 	option = {
 		name = score_option_a
-		ai_chance = { factor = 100 }
+
+		ai_chance = {
+			factor = 100
+		}
 	}
 }
 
@@ -453,98 +289,11 @@ country_event = {
 	}
 
 	immediate = {
-		if = { limit = { 236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 183 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 201 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 87 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 174 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 75 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 248 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 97 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1876 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 67 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 50 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 45 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 12 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1874 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 118 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 104 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 112 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 125 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 213 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 217 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 227 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 226 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 134 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 266 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 69 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 165 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 41 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 38 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 33 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 257 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 295 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 293 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 466 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2444 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 421 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 153 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 137 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 151 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 326 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 377 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 361 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 428 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 341 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2467 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1147 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1114 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1133 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 385 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2218 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 403 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 454 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 451 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 504 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 507 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1224 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1196 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1185 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1177 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1205 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1170 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 707 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 563 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 524 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 555 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2058 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 541 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 4443 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 586 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 4831 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 613 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 596 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 636 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2690 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 656 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 667 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 679 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1821 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1816 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 730 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 700 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 669 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 682 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 2745 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1020 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1240 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 1236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
-		if = { limit = { 552 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 4 } }
+		# 1600-1699:
+		# valore base della provincia × 4
+		intscore_score_valid_provinces = {
+			MULTIPLIER = 4
+		}
 
 		set_country_flag = intscore_participant
 		set_country_flag = score_event_fired
@@ -553,7 +302,10 @@ country_event = {
 
 	option = {
 		name = score_option_a
-		ai_chance = { factor = 100 }
+
+		ai_chance = {
+			factor = 100
+		}
 	}
 }
 
@@ -584,98 +336,11 @@ country_event = {
 	}
 
 	immediate = {
-		if = { limit = { 236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 183 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 201 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 87 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 174 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 75 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 248 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 97 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1876 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 67 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 50 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 45 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 12 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1874 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 118 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 104 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 112 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 125 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 213 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 217 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 227 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 226 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 134 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 266 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 69 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 165 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 41 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 38 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 33 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 257 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 295 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 293 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 466 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2444 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 421 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 153 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 137 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 151 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 326 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 377 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 361 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 410 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 428 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 341 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2467 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1147 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1114 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1133 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 385 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2218 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 403 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 454 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 451 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 504 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 507 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1224 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1196 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1185 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1177 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1205 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1170 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 707 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 563 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 524 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 555 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2058 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 541 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 4443 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 586 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 4831 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 613 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 596 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 636 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2690 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 656 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 667 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 679 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1821 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1816 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 730 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 700 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 669 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 682 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2116 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 2745 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1020 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1240 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 1236 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
-		if = { limit = { 552 = { OR = { owned_by = ROOT owner = { is_subject_of = ROOT } } } } change_variable = { which = IntScore value = 6 } }
+		# Dal 1700:
+		# valore base della provincia × 6
+		intscore_score_valid_provinces = {
+			MULTIPLIER = 6
+		}
 
 		set_country_flag = intscore_participant
 		set_country_flag = score_event_fired
@@ -684,7 +349,10 @@ country_event = {
 
 	option = {
 		name = score_option_a
-		ai_chance = { factor = 100 }
+
+		ai_chance = {
+			factor = 100
+		}
 	}
 }
 

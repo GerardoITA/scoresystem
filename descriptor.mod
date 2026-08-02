@@ -3,5 +3,5 @@ tags={
 	"Balance"
 }
 name="ScoreSystem"
-supported_version="1.34.5"
+supported_version="1.37.*"
 remote_file_id="2919909104"

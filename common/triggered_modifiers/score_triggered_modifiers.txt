@@ -7,7 +7,14 @@ intscore_first_place_modifier = {
 		has_country_flag = intscore_first_place
 	}
 
-	land_morale = 0.30
+	land_morale = 0.10
+	naval_morale = 0.05
+	manpower_recovery_speed = 0.2
+	global_trade_goods_size_modifier = 0.1
+	production_efficiency = 0.1
+	trade_efficiency = 0.1
+	global_colonial_growth = 40
+	merchant = 1
 }
 
 intscore_second_place_modifier = {
@@ -19,7 +26,14 @@ intscore_second_place_modifier = {
 		has_country_flag = intscore_second_place
 	}
 
-	land_morale = 0.2
+	land_morale = 0.075
+	naval_morale = 0.025
+	manpower_recovery_speed = 0.1
+	global_trade_goods_size_modifier = 0.1
+	production_efficiency = 0.05
+	trade_efficiency = 0.05
+	global_colonial_growth = 20
+	merchant = 1
 }
 
 intscore_third_place_modifier = {
@@ -31,5 +45,10 @@ intscore_third_place_modifier = {
 		has_country_flag = intscore_third_place
 	}
 
-	land_morale = 0.1
+	land_morale = 0.075
+	merchant = 1
+	global_trade_goods_size_modifier = 0.1
+	production_efficiency = 0.05
+	trade_efficiency = 0.05
+	global_colonial_growth = 10
 }

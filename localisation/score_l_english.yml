@@ -1,8 +1,12 @@
 ﻿l_english:
   show_score_title:0 "IntScore Ranking"
  show_score_desc:0 "Open the ranking of every player country with more than 0 IntScore.\n\nYour current IntScore: §Y[Root.IntScore.GetValue]§!"
- check_victory_provinces_title:0 "Check Victory Provinces"
- check_victory_provinces_desc:0 "Owning one of these provinces will grant you a certain amount of Intscore points each, every year. Conquer them all! 1444-1499 = 1 pt, 1500-1599 = 2pts, 1600-1699 = 4pts, 1700-1821 = 6pts."
+ 
+ check_standard_victory_provinces_title:0 "Show §YStandard Victory Provinces§!"
+ check_standard_victory_provinces_desc:0 "Highlights all §YStandard Victory Provinces§!.\n\nEach province has a base value of §G1 point§! and grants IntScore every year when owned directly or by one of your subjects.\n\n§YAnnual value by period:§!\n1444–1499: §G1 IntScore§!\n1500–1599: §G2 IntScore§!\n1600–1699: §G4 IntScore§!\n1700–1821: §G6 IntScore§!"
+
+ check_important_victory_provinces_title:0 "Show §RImportant Victory Provinces§!"
+ check_important_victory_provinces_desc:0 "Highlights all §RImportant Victory Provinces§!.\n\nEach province has a base value of §R2 points§! and therefore grants §Ytwice as much IntScore§! as a Standard Victory Province when owned directly or by one of your subjects.\n\n§YAnnual value by period:§!\n1444–1499: §R2 IntScore§!\n1500–1599: §R4 IntScore§!\n1600–1699: §R8 IntScore§!\n1700–1821: §R12 IntScore§!"
 
  intscore.1.t:0 "+1 Intscore"
  intscore.1.d:0 "Adds 1 point to your score."
