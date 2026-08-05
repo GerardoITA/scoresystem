@@ -164,6 +164,7 @@ country_event = {
 
 	trigger = {
 		was_player = yes
+		is_colonial_nation = no
 
 		NOT = {
 			has_country_flag = score_event_fired
@@ -218,6 +219,7 @@ country_event = {
 
 	trigger = {
 		was_player = yes
+		is_colonial_nation = no
 
 		NOT = {
 			has_country_flag = score_event_fired
@@ -268,6 +270,7 @@ country_event = {
 
 	trigger = {
 		was_player = yes
+		is_colonial_nation = no
 
 		NOT = {
 			has_country_flag = score_event_fired
@@ -318,6 +321,7 @@ country_event = {
 
 	trigger = {
 		was_player = yes
+		is_colonial_nation = no
 
 		NOT = {
 			has_country_flag = score_event_fired
