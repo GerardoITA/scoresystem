@@ -1,5 +1,5 @@
 ﻿l_english:
-  show_score_title:0 "IntScore Ranking"
+ show_score_title:0 "IntScore Ranking"
  show_score_desc:0 "Open the ranking of every player country with more than 0 IntScore.\n\nYour current IntScore: §Y[Root.IntScore.GetValue]§!"
  
  check_standard_victory_provinces_title:0 "Show §YStandard Victory Provinces§!"
@@ -74,6 +74,34 @@
 
  intscore_current_score_tooltip:0 "Your current IntScore is §Y[Root.IntScore.GetValue]§!."
 
- intscore_first_place_modifier:0 "IntScore: First Place"
- intscore_second_place_modifier:0 "IntScore: Second Place"
- intscore_third_place_modifier:0 "IntScore: Third Place"
+ intscore_first_place_modifier:0 "First Place"
+ intscore_second_place_modifier:0 "Second Place"
+ intscore_third_place_modifier:0 "Third Place"
+
+ cb_intscore_rivalry:0 "IntScore War"
+ cb_intscore_rivalry_desc:0 "Declare war on a player rival to reduce their IntScore. This Casus Belli becomes available from 1 January 1500."
+
+ intscore_superiority:0 "Show IntScore Superiority"
+ intscore_superiority_desc:0 "The war goal is to show superiority by winning land battles. Winning a sufficient share of battles grants ticking war score."
+
+ INTSCORE_RIVALRY_WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ IntScore War"
+
+ intscore_loss_025:0 "Remove Score 25 WS"
+ intscore_loss_025_desc:0 "The defeated country loses §R25 IntScore§! in 1500–1599, §R50 IntScore§! in 1600–1699 and §R100 IntScore§! from 1700 onward."
+ CB_ALLOWED_intscore_loss_025:0 "Reduce enemy IntScore"
+ PEACE_intscore_loss_025:0 "Remove Score 25 WS"
+
+ intscore_loss_050:0 "Remove Score 50 WS"
+ intscore_loss_050_desc:0 "The defeated country loses §R50 IntScore§! in 1500–1599, §R100 IntScore§! in 1600–1699 and §R200 IntScore§! from 1700 onward."
+ CB_ALLOWED_intscore_loss_050:0 "Reduce enemy IntScore"
+ PEACE_intscore_loss_050:0 "Remove Score 50 WS"
+
+ intscore_loss_075:0 "Remove Score 75 WS"
+ intscore_loss_075_desc:0 "The defeated country loses §R75 IntScore§! in 1500–1599, §R150 IntScore§! in 1600–1699 and §R300 IntScore§! from 1700 onward."
+ CB_ALLOWED_intscore_loss_075:0 "Reduce enemy IntScore"
+ PEACE_intscore_loss_075:0 "Remove Score 75 WS"
+
+ intscore_loss_100:0 "Remove Score 100 WS"
+ intscore_loss_100_desc:0 "The defeated country loses §R100 IntScore§! in 1500–1599, §R200 IntScore§! in 1600–1699 and §R400 IntScore§! from 1700 onward."
+ CB_ALLOWED_intscore_loss_100:0 "Reduce enemy IntScore"
+ PEACE_intscore_loss_100:0 "Remove Score 100 WS"

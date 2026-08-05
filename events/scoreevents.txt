@@ -134,14 +134,14 @@ picture = COURT_eventPicture
 #country_event = {
 #	 id = intscore.50
 #	title = intscore.50.t
-#    desc = intscore.50.d
-#picture = COURT_eventPicture
+ #   desc = intscore.50.d
+#	picture = COURT_eventPicture
 #	is_triggered_only = yes
 #	hidden = yes
 #	immediate = {
 #		change_variable = {
-#        which = IntScore
-#        value = 50
+ #       which = IntScore
+  #      value = 50
 #		}
 #	}
 #	option = {

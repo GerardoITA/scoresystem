@@ -5,6 +5,7 @@ intscore_first_place_modifier = {
 
 	trigger = {
 		has_country_flag = intscore_first_place
+		is_year = 1500
 	}
 	discipline = 0.05
 
@@ -25,6 +26,7 @@ intscore_second_place_modifier = {
 
 	trigger = {
 		has_country_flag = intscore_second_place
+		is_year = 1500
 	}
 	discipline = 0.025
 
@@ -45,6 +47,7 @@ intscore_third_place_modifier = {
 
 	trigger = {
 		has_country_flag = intscore_third_place
+		is_year = 1500
 	}
 
 	discipline = 0.025
