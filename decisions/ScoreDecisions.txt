@@ -2,7 +2,7 @@ country_decisions = {
 
 show_score = {
 	major = yes
-
+	color = { 77  93  83 }
 	potential = {
 		was_player = yes
 	}
@@ -32,7 +32,7 @@ show_score = {
 
 check_standard_victory_provinces = {
 	major = yes
-
+	color = { 77  93  83 }
 	potential = {
 		was_player = yes
 	}
@@ -260,7 +260,7 @@ check_standard_victory_provinces = {
 
 check_important_victory_provinces = {
 	major = yes
-
+	color = { 77  93  83 }
 	potential = {
 		was_player = yes
 	}
