@@ -162,9 +162,9 @@ intscore_score_valid_provinces = {
 		intscore_score_single_province = { PROVINCE = 356 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # BENGAZI
 
 		################### MAGHREB
-		intscore_score_single_province = { PROVINCE = 343  BASE = 1 MULTIPLIER = $MULTIPLIER$ } # FEZ
+		intscore_score_single_province = { PROVINCE = 343  BASE = 2 MULTIPLIER = $MULTIPLIER$ } # FEZ
 		intscore_score_single_province = { PROVINCE = 341  BASE = 1 MULTIPLIER = $MULTIPLIER$ } # TUNIS
-		intscore_score_single_province = { PROVINCE = 2461 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # DAHRA
+		intscore_score_single_province = { PROVINCE = 338 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # MITIJA
 
 		################### SAHEL
 		intscore_score_single_province = { PROVINCE = 2269 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # ZARMAGANDA
