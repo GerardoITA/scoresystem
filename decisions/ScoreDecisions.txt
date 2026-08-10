@@ -157,9 +157,8 @@ check_standard_victory_provinces = {
 			province_id = 356 # BENGAZI
 
 			################### MAGHREB
-			province_id = 343  # FEZ
 			province_id = 341  # TUNIS
-			province_id = 2461 # DAHRA
+			province_id = 338 # MITIJA
 
 			################### SAHEL
 			province_id = 2269 # ZARMAGANDA
@@ -308,6 +307,9 @@ check_important_victory_provinces = {
 
 
 			################################################# AFRICA
+
+			################### MAGHREB
+			province_id = 343  # FEZ
 
 			################### EGYPT
 			province_id = 361 # CAIRO
