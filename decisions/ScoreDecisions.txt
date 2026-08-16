@@ -166,7 +166,7 @@ check_standard_victory_provinces = {
 			province_id = 5807 # ARRAKIS
 
 			################### NIGER
-			province_id = 1134 # JENNE
+			#province_id = 1134 # JENNE
 
 			################### GUINEA
 			province_id = 1147 # BENIN

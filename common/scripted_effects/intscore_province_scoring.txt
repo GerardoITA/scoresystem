@@ -172,7 +172,7 @@ intscore_score_valid_provinces = {
 		intscore_score_single_province = { PROVINCE = 5807 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # ARRAKIS
 
 		################### NIGER
-		intscore_score_single_province = { PROVINCE = 1134 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # JENNE
+		#intscore_score_single_province = { PROVINCE = 1134 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # JENNE
 
 		################### GUINEA
 		intscore_score_single_province = { PROVINCE = 1147 BASE = 1 MULTIPLIER = $MULTIPLIER$ } # BENIN
