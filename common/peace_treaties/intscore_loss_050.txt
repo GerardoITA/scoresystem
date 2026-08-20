@@ -27,6 +27,9 @@ intscore_loss_050 = {
 				BASE = 50
 			}
 		}
+		country_event = {
+			id = intscore.1061
+		}
 	}
 
 	ai_weight = {

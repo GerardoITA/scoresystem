@@ -573,3 +573,23 @@ country_event = {
 		}
 	}
 }
+
+
+############ CALCULATES RANKING FOR INTSCORE WARS
+country_event = {
+	id = intscore.1061
+	hidden = yes
+	is_triggered_only = yes
+
+	immediate = {
+		intscore_build_ranking = yes
+		intscore_assign_place_flags = yes
+	}
+
+	option = {
+		name = score_option_a
+		ai_chance = {
+			factor = 100
+		}
+	}
+}
