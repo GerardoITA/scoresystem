@@ -29,6 +29,13 @@ intscore_score_single_province = {
 			which = IntScore
 			which = intscore_points_to_add
 		}
+
+		# Salva il risultato come YearlyIntScore.
+
+		change_variable = {
+			which = YearlyIntScore
+			which = intscore_points_to_add
+		}
 	}
 }
 

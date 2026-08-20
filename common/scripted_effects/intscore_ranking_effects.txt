@@ -1,7 +1,7 @@
 intscore_clear_rank_slot = {
 	if = {
 		limit = {
-			has_saved_event_target = $TARGET$
+			has_saved_global_event_target = $TARGET$
 		}
 
 		clear_global_event_target = $TARGET$
@@ -9,7 +9,6 @@ intscore_clear_rank_slot = {
 
 	clr_global_flag = $FLAG$
 }
-
 intscore_select_rank_slot = {
 	if = {
 		limit = {

@@ -46,10 +46,15 @@ picture = COURT_eventPicture
 	hidden = yes
 	immediate = {
 		set_variable = {
-		which = IntScore
-		value = 0
+			which = IntScore
+			value = 0
+		}
+		set_variable = {
+			which = YearlyIntScore
+			value = 0
 		}
 	}
+	
 	option = {
 		name = score_option_a
 		ai_chance = { factor = 100 }
@@ -192,6 +197,12 @@ country_event = {
 		# BASE della provincia × MULTIPLIER dell'epoca.
 		#
 		# Per il periodo 1444-1499 il moltiplicatore è 1.
+
+		set_variable = {
+			which = YearlyIntScore
+			value = 0
+		}
+
 		intscore_score_valid_provinces = {
 			MULTIPLIER = 1
 		}
@@ -243,6 +254,12 @@ country_event = {
 	immediate = {
 		# 1500-1599:
 		# valore base della provincia × 2
+
+		set_variable = {
+			which = YearlyIntScore
+			value = 0
+		}
+
 		intscore_score_valid_provinces = {
 			MULTIPLIER = 2
 		}
@@ -294,6 +311,12 @@ country_event = {
 	immediate = {
 		# 1600-1699:
 		# valore base della provincia × 4
+
+		set_variable = {
+			which = YearlyIntScore
+			value = 0
+		}
+
 		intscore_score_valid_provinces = {
 			MULTIPLIER = 4
 		}
@@ -342,6 +365,12 @@ country_event = {
 	immediate = {
 		# Dal 1700:
 		# valore base della provincia × 6
+
+		set_variable = {
+			which = YearlyIntScore
+			value = 0
+		}
+
 		intscore_score_valid_provinces = {
 			MULTIPLIER = 6
 		}
